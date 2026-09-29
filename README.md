@@ -46,7 +46,3 @@ php -S localhost:8080 index.php
 | POST | /missoes | Cadastrar | 201 / 400 |
 | PUT | /missoes/{id} | Atualizar | 200 / 404 |
 | DELETE | /missoes/{id} | Remover | 204 / 404 |
-
-## 8. Evidências
-
-Prints dos testes em `screenshots/`.
