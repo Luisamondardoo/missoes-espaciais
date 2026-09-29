@@ -21,7 +21,7 @@ API REST em PHP com Slim Framework para gerenciamento de missões espaciais.
 
 ```bash
 git clone https://github.com/Luisamondardoo/missoes-espaciais.git
-cd missoes-espaciais-api
+cd missoes-espaciais
 ```
 
 ## 5. Como Instalar
