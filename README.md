@@ -20,7 +20,7 @@ API REST em PHP com Slim Framework para gerenciamento de missões espaciais.
 ## 4. Como Clonar
 
 ```bash
-git clone 
+git clone https://github.com/Luisamondardoo/missoes-espaciais.git
 cd missoes-espaciais-api
 ```
 
